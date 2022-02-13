@@ -3,4 +3,4 @@ Fácil es una aplicación para dispositivos con sistema operativo Android que te
 
 # Captura de pantalla
 
-![Image text](https://github.com/zerodevcuba/Facil/blob/f166bcf62ab9c73cf0aaa0acda8759125080784b/Screenshot_2022-02-13-16-08-09-275_com.zero.facilapp.jpg)
+![Image text](https://github.com/zerodevcuba/Facil/blob/70a8f4ef0eed981e5d68581c6b953750dab511f4/muestra_facil.jpg)
